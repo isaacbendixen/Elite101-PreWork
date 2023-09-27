@@ -4,7 +4,7 @@
 import random
 
 name = input("What is your name? ")
-print("Hi there, " + name  + ". My name is Shiro, nice to meet you!")
+print("Hi there, " + name  + ". My name is Isaac, nice to meet you!")
 
 
 #------------------------Feeling/Emotion Questions ----------------------
